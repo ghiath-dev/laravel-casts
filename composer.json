@@ -1,0 +1,26 @@
+{
+    "name": "holoultek/laravel-casts",
+    "description": "More of casts for your models",
+    "version": "0.0.1",
+    "type": "package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Holoultek\\LaravelCasts\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ghiath-dev",
+            "email": "ghiath.dev@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Holoultek\\LaravelCasts\\CastsServiceProvider"
+            ]
+        }
+    },
+    "require": {}
+}
