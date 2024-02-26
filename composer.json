@@ -1,6 +1,6 @@
 {
     "name": "holoultek/laravel-casts",
-    "description": "More of casts for your models",
+    "description": "More of casts for your models attributes",
     "version": "0.0.1",
     "type": "package",
     "license": "MIT",

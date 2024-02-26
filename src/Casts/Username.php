@@ -1,6 +1,6 @@
 <?php
 
-namespace Holoultek\Capabilities\Casts;
+namespace Holoultek\Capabilities\LaravelCasts;
 
 use Illuminate\Contracts\Database\Eloquent\CastsAttributes;
 use Illuminate\Database\Eloquent\Model;
