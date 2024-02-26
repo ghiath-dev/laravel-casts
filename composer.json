@@ -15,12 +15,5 @@
             "email": "ghiath.dev@gmail.com"
         }
     ],
-    "extra": {
-        "laravel": {
-            "providers": [
-                "Holoultek\\LaravelCasts\\CastsServiceProvider"
-            ]
-        }
-    },
     "require": {}
 }
